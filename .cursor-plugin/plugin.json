@@ -1,0 +1,15 @@
+{
+  "name": "greenbuild-qa",
+  "displayName": "GreenBuild QA",
+  "version": "1.0.0",
+  "description": "A senior QA and test-automation lead as 17 skills: test plans from requirements, flaky-test triage, Playwright/Selenium/Cypress code review, API, mobile, performance, accessibility and visual testing, CI quality gates, bug reports, and release-readiness checks.",
+  "author": { "name": "Dhiraj Das" },
+  "homepage": "https://dhirajdas.dev",
+  "repository": "https://github.com/godhiraj-code/greenbuild-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": ["qa", "testing", "test-automation", "playwright", "selenium", "cypress", "appium", "flaky-tests", "ci", "sdet"],
+  "category": "developer-tools",
+  "tags": ["qa", "testing", "automation", "ci"],
+  "skills": "./skills/"
+}
